@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SafiahManan
+- 👀 I’m interested in coding and the documentation
+- ✨ Software Engineering Student
+- ⚡ "DO MORE, LEARN MORE"
